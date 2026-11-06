@@ -31,7 +31,7 @@ I enjoy building practical projects, exploring new technologies, and connecting 
 
 ## 🧠 Areas of Interest
 
-- 💻 Software Engineering & System Design
+- 💻 Software Engineering 
 - ⚙️ Backend Development & REST APIs
 - 🗄️ Relational Databases & SQL
 - 🤖 Artificial Intelligence & AI Agents
@@ -68,7 +68,6 @@ I enjoy building practical projects, exploring new technologies, and connecting 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ### AI, Automation & Tools
@@ -79,7 +78,6 @@ I enjoy building practical projects, exploring new technologies, and connecting 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
 ---
@@ -112,17 +110,6 @@ An automated customer service workflow built with n8n and Google Gemini, using T
 
 🔗 [Repository](https://github.com/AronAraujo/n8n-ai-financial-agent)
 
-### ⚽ Aruan — Football Tryout Management API
-
-A REST API developed with Java and Spring Boot to manage football clubs and coaches in sports tryout processes.
-
-**Technologies:** Java, Spring Boot, Spring Data JPA, H2, Maven.
-
-- REST endpoints for registration, listing, searching, and deletion.
-- Relational entity modeling and data persistence.
-- Backend development using Spring Boot.
-
-🔗 [Repository](https://github.com/AronAraujo/Peneiras-de-Futebol-JavaSpringBoot)
 
 ### 🚗 Jaron — Dealership Management System
 
